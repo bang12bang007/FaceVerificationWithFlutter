@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="bgLight">#131415</color>
+    <color name="textLight">#0C0F14</color>
+    <color name="greenLight" type="material">#3FA430</color>
+    <color name="red">#E2333C</color>
+    <color name="redNegativeLight">#E62E05</color>
+    <color name="yellowLight">#DEA700</color>
+    <color name="yellowLightBg">#FEFDF0</color>
+    <color name="blue">#384289</color>
+    <color name="violetLight">#C726FF</color>
+    <color name="grayLight">#F4F5F7</color>
+    <color name="separateLight">#F0F0F0</color>
+    <color name="borderLight">#D6D6D6</color>
+    <color name="greyLight">#D6D6D6</color>
+    <color name="textBodyLight">#737373</color>
+    <color name="greenBgLight">#ECF6EA</color>
+    <color name="greenSurfaceLight">#ECF6EA</color>
+    <color name="buttonKeyboardLight">#FFFFFF</color>
+    <color name="bgKeyboardLight">#D6D6D6</color>
+    <color name="blueSurfaceLight">#E7F3FD</color>
+    <color name="tabItemBgColor">#2E2E2E</color>
+    <color name="tabItemBgLight">#FFFFFF</color>
+
+    <color name="lightGrayLight">#999999</color>
+    <color name="lightGrayDark">#777777</color>
+
+
+    <!--    <color name="greenLight" type="material">#306F42</color>-->
+    <!--    <color name="greenDark" type="material">#00C805</color>-->
+    <!--    <color name="yellowLight">#FDC10B</color>-->
+</resources>
